@@ -1,0 +1,12 @@
+Enter hashtable size> 100000
+Enter base filename> tickets9
+
+Reading 'tickets9.txt'...
+Sorting...
+Writing 'tickets9-output.txt'...
+
+**Hashing Stats**
+Probes: 53248
+Stores: 16337
+Elements: 14335
+
